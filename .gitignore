@@ -14,6 +14,8 @@ dist-ssr
 db.json
 rps.py
 *.local
+.env
+dotenv
 
 # Editor directories and files
 .vscode/*
